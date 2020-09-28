@@ -13,6 +13,7 @@
 * [Installation](ora_install-module-reference/installation.md)
 * [Puppet Classes](ora_install-module-reference/puppet-classes/README.md)
   * [ora\_install::autostartdatabase](ora_install-module-reference/puppet-classes/ora_install-autostartdatabase.md)
+  * [ora\_install::client](ora_install-module-reference/puppet-classes/ora_install-client.md)
 * [Puppet defined types](ora_install-module-reference/puppet-defined-types.md)
 
 ## ora\_config module reference
