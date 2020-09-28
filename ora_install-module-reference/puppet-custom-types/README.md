@@ -1,0 +1,2 @@
+# Puppet Custom Types
+

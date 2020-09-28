@@ -1,0 +1,2 @@
+# Puppet Defined Types
+
